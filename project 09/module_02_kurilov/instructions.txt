@@ -1,0 +1,2 @@
+запуск -- main.sln
+просмотр кода discount calculator и database cs через папку main
